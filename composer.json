@@ -1,5 +1,5 @@
 {
-  "name": "isoc-il/laravel-ifx",
+  "name": "rusoft/laravel-ifx",
   "description": "Informix DB driver for Laravel 5",
   "keywords": ["informix", "laravel", "laravel 5", "ifx" ],
   "license": "MIT",
